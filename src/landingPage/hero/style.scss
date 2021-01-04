@@ -1,0 +1,42 @@
+.hero {
+  div {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 6rem;
+    color: #fff;
+    padding-bottom: 12rem;
+    h1 {
+      font-weight: bold;
+      font-size: 4.125rem;
+    }
+    h2 {
+      font-weight: bold;
+      margin-top: -3rem;
+      font-size: 1.625rem;
+    }
+    p {
+      margin-top: 1.5rem;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    input {
+      width: 40%;
+      padding: 1rem;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      border: white;
+    }
+
+    button {
+      padding: 1rem;
+      width: 20%;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      background-color: #e50914;
+      color: #ffffff;
+      cursor: pointer;
+    }
+  }
+}

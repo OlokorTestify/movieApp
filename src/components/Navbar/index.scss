@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  background: transparent;
+  color: #fff;
+
+  div {
+    p {
+      font-size: 40px;
+      color: #e50914;
+    }
+  }
+}
