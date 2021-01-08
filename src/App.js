@@ -2,7 +2,7 @@ import React from "react";
 import { Router, Route, Switch, Redirect } from "react-router-dom";
 import history from "./utils/history";
 import LandingPage from "./landingPage";
-import "./App.css";
+import "./App.scss";
 
 const App = () => {
   return (
